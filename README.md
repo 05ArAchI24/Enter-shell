@@ -42,4 +42,4 @@ MODULES:
   module load <jar> <class> - load module
   module unload <name>      - unload module
   module list              - list loaded modules
-
+```
